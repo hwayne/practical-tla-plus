@@ -1,5 +1,7 @@
 # Apress Source Code
 
+[![Join the chat at https://gitter.im/practical-tla-plus/community](https://badges.gitter.im/practical-tla-plus/community.svg)](https://gitter.im/practical-tla-plus/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository accompanies [*Practical TLA+*](https://www.apress.com/9781484238288) by Hillel Wayne (Apress, 2018).
 
 [comment]: #cover
